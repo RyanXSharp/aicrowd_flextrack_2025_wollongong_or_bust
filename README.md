@@ -1,4 +1,7 @@
 # Flextrack Challenge 2025
+
+https://www.aicrowd.com/challenges/flextrack-challenge-2025
+
 ## Team WollongongOrBust third place submission
 ### Notebooks To Run (in order)
 - classification_feature_engineering
