@@ -1,0 +1,6 @@
+scikit-learn
+xgboost==3.0.5
+pandas
+numpy
+imbalanced-learn
+tqdm
