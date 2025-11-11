@@ -1,5 +1,5 @@
-# flextrack_challenge
-## Reproducing submission results
+# Flextrack Challenge 2025
+## - Team WollongongOrBust third place submission
 ### Notebooks To Run (in order)
 - classification_feature_engineering
 - classify
